@@ -15,18 +15,10 @@ It allows your server (and even other scripts) to dynamically update the player‚
 - Supports **QBCore job integration**
 - Super lightweight and optimized
 
----
-
-## üìÅ Installation
-
-1. Download or clone this resource:
-   ```bash
-   git clone https://github.com/yourrepo/SkapRichPresence
-
-
 # Exports:
 exports['SkapRichPresence']:SetRichPresence("makeover") -- Set the StatusPresets
 exports['SkapRichPresence']:ResetRichPresence()
+
 
 
 Discord for support: https://discord.gg/xjk59BuDdw
